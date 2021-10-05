@@ -1,0 +1,15 @@
+.main{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cuadro{
+  height: 150px;
+  width: 200px;
+  background-color: aqua;
+  box-shadow: 3px 3px;
+  border-radius: 10px;
+}
